@@ -1,0 +1,14 @@
+Modules:
+- Spark + Neo4J
+    - Popolare il graph databases
+        - Luca: "Siccome sono l'unico che è riuscito ad installare Spark per ora, posso iniziare a guardarlo io.
+        poi quando riuscite ad installarlo potete continuare a lavorarci anche voi se vi va"
+    - Cipher queries
+        - Luca: "Quali possono essere query interessanti in Cipher da fare una volta popolato il DB?"
+            -
+- Spark queries
+    - Luca: "Quali possono essere query interessanti in Spark sui dataset?"
+        -
+    - Luca: "Possiamo usare Spark per esempio per popolare un dataframe di pandas? Se sì, quello può essere un
+    altro modulo interessante!"
+(- Spark + pandas)
