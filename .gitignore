@@ -1,2 +1,6 @@
 *~
 .ipynb_checkpoints/*
+first_example/.ipynb_checkpoints/
+EC2/.ipynb_checkpoints/
+EC2/metastore_db/
+EC2/derby.log
