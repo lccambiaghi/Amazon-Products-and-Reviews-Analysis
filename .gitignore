@@ -6,3 +6,5 @@ Spark_Local/derby.log
 Spark_Local/.ipynb_checkpoints/
 EC2/metastore_db/
 EC2/derby.log
+Neo4J/amazon_graph_db/
+EC2/Neo4J.ipynb
