@@ -1,2 +1,8 @@
 *~
-.ipynb_checkpoints/*
+EC2/.ipynb_checkpoints/
+first_example/.ipynb_checkpoints/
+Spark_Local/metastore_db/
+Spark_Local/derby.log
+Spark_Local/.ipynb_checkpoints/
+EC2/metastore_db/
+EC2/derby.log
