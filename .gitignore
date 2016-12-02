@@ -1,4 +1,6 @@
 *~
+.ipynb_checkpoints/*
+first_example/.ipynb_checkpoints/
 EC2/.ipynb_checkpoints/
 first_example/.ipynb_checkpoints/
 Spark_Local/metastore_db/
