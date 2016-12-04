@@ -1,7 +1,0 @@
-Terminal:
-- ssh -i "comptools.pem" ec2-user@ec2-35-156-126-180.eu-central-1.compute.amazonaws.com
-- bash neo4j-community-3.0.7/bin/neo4j start
-
-Browser:
-- https://ec2-35-156-126-180.eu-central-1.compute.amazonaws.com:7473
-- User: neo4j Pass: comptools

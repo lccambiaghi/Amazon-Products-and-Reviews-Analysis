@@ -1,0 +1,214 @@
+(lp0
+cpyspark.sql.types
+_create_row
+p1
+((lp2
+S'title'
+p3
+aS'price'
+p4
+aS'count'
+p5
+a(VSanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter, Frustration-Free Packaging - SDSDQU-064G-AFFP-A
+p6
+F36.790000915527344
+I4915
+tp7
+tp8
+Rp9
+ag1
+((lp10
+S'title'
+p11
+aS'price'
+p12
+aS'count'
+p13
+a(VAmazonBasics High-Speed HDMI Cable - 15 Feet ( 4.6 Meters) Supports Ethernet
+p14
+F11.989999771118164
+I4143
+tp15
+tp16
+Rp17
+ag1
+(g10
+(VGoogle Chromecast HDMI Streaming Media Player
+p18
+F34.4900016784668
+I3798
+tp19
+tp20
+Rp21
+ag1
+((lp22
+S'title'
+p23
+aS'price'
+p24
+aS'count'
+p25
+a(VMediabridge ULTRA Series HDMI Cable (6 Feet) - High-Speed Supports Ethernet, 3D and Audio Return [Newest Standard]
+p26
+F8.989999771118164
+I3435
+tp27
+tp28
+Rp29
+ag1
+(g22
+(VTranscend 8 GB Class 10 SDHC Flash Memory Card (TS8GSDHC10E)
+p30
+F7.519999980926514
+I2813
+tp31
+tp32
+Rp33
+ag1
+(g22
+(VPanasonic RPHJE120D In-Ear Headphone, Orange
+p34
+F7.039999961853027
+I2652
+tp35
+tp36
+Rp37
+ag1
+(g22
+(VDVI Gear HDMI Cable 2M 6 feet
+p38
+F2.799999952316284
+I2599
+tp39
+tp40
+Rp41
+ag1
+((lp42
+S'title'
+p43
+aS'price'
+p44
+aS'count'
+p45
+a(VAmazonBasics Apple Certified Lightning to USB Cable - 3 Feet (0.9 Meter) - Black
+p46
+F13.989999771118164
+I2542
+tp47
+tp48
+Rp49
+ag1
+(g42
+(VRoku 3 Streaming Media Player
+p50
+F99.97000122070312
+I2104
+tp51
+tp52
+Rp53
+ag1
+(g42
+(Veneloop SEC-CSPACER4PK C Size Spacers for use with AA battery cells
+p54
+F9.989999771118164
+I2082
+tp55
+tp56
+Rp57
+ag1
+(g42
+(VKindle Fire HD 7&quot;, Dolby Audio, Dual-Band Wi-Fi, 16 GB
+p58
+F199.0
+I2069
+tp59
+tp60
+Rp61
+ag1
+(g42
+(VMotorola Vehicle Power Adapter micro-USB Rapid Rate Charger
+p62
+F8.949999809265137
+I2021
+tp63
+tp64
+Rp65
+ag1
+(g42
+(VTech Armor Ultimate 4-Way 360 Degree Privacy Screen Protector for Apple New iPhone 5, Latest Generation, 1-Pack
+p66
+F8.949999809265137
+I1961
+tp67
+tp68
+Rp69
+ag1
+(g42
+(VGarmin Portable Friction Mount - Frustration Free Packaging
+p70
+F19.15999984741211
+I1960
+tp71
+tp72
+Rp73
+ag1
+(g42
+(VSanDisk 4GB Extreme SDHC Class 10 Memory Card
+p74
+F16.489999771118164
+I1890
+tp75
+tp76
+Rp77
+ag1
+((lp78
+S'title'
+p79
+aS'price'
+p80
+aS'count'
+p81
+a(VSanDisk Cruzer Fit 4GB USB 2.0 Low-Profile Flash Drive- SDCZ33-004G-B35
+p82
+F4.75
+I1884
+tp83
+tp84
+Rp85
+ag1
+(g78
+(VWD My Passport 2TB Portable External USB 3.0 Hard Drive Storage Black (WDBY8L0020BBK-NESN)
+p86
+F129.0
+I1866
+tp87
+tp88
+Rp89
+ag1
+(g78
+(VKingston Digital 8GB DataTraveler 101 G2 USB 2.0 Drive - Red (DT101G2/8GBZET)
+p90
+F5.380000114440918
+I1812
+tp91
+tp92
+Rp93
+ag1
+(g78
+(VPowerGen 2.4Amps / 12W Dual USB Car charger Designed for Apple and Android Devices - White
+p94
+F8.989999771118164
+I1710
+tp95
+tp96
+Rp97
+ag1
+(g78
+(VMohu Leaf Paper-Thin Indoor HDTV Antenna - Made in USA
+p98
+F35.9900016784668
+I1581
+tp99
+tp100
+Rp101
+a.

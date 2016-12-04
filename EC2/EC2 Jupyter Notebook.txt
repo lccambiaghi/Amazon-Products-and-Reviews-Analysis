@@ -1,8 +1,0 @@
-Terminal:
-(- chmod 400 comptools.pem)
-- ssh -i "comptools.pem" ec2-user@ec2-35-156-126-180.eu-central-1.compute.amazonaws.com
-- jupyter notebook
-
-Browser:
-- https://ec2-35-156-126-180.eu-central-1.compute.amazonaws.com:8888
-- Password: comptools
